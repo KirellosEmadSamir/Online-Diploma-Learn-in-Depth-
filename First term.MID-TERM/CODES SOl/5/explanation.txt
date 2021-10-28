@@ -1,0 +1,20 @@
+Explanation :
+The commented numbers in the above program denotes the steps number below :
+
+Create one integer variable count to store the count of 1. Create one more integer variable number to store the value of user input value.
+Ask the user to enter the number and store it in variable number.
+Start one while loop. The loop will run till the value of number becomes 0.
+Do bitwise & of number and number - 1 and set the value to number. Increment the value of count. Do the same process again and again till number becomes 0.
+After the loop is completed, print the value of count i.e. total number of 1 in binary representation of number.
+Sample Output :
+Enter a number :
+4
+Total number of 1 is = 1
+
+Enter a number :
+5
+Total number of 1 is = 2
+
+Enter a number :
+7
+Total number of 1 is = 3
