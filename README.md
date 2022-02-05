@@ -9,7 +9,7 @@
 ### First Term ![image](https://progress-bar.dev/60/?title=In_Progress)
 
 - Unit 1: Diploma Prerequisites ![image](https://progress-bar.dev/100/?title=No_Assignments&color=bababa)
-- [First term: Unit 2](Lesson 3) ![image](https://progress-bar.dev/100/)
+- [First_term: Unit_2](Lesson_3) ![image](https://progress-bar.dev/100/)
 - [Unit 3: Embedded C](Unit_3_Embedded_C) ![image](https://progress-bar.dev/100/)
 - [Unit 4: System Architect](Unit_4_System_Architecture) ![image](https://progress-bar.dev/30/)
 - [Unit 5: First Term Projects](05_First_Term_Projects) ![image](https://progress-bar.dev/0/)
